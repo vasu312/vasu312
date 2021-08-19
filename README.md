@@ -20,10 +20,11 @@ Here are some ideas to get you started:
 
 #Languages and Tools
   
-  <!---->
-[![Instagram: Vasudevan](https://img.shields.io/twitter/follow/MianJawadAhmad1?style=social)](https://instagram.com/vasu_3122)
+#Contact
 [![Linkedin: Vasudevan](https://img.shields.io/badge/-Vasudevan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Vasudevan/)](https://www.linkedin.com/in/Vasudevan-r-869b47211/)
 [![GitHub:Vasudevan ](https://img.shields.io/github/followers/vasu312?label=follow&style=social)](https://github.com/vasu312)
+[![Instagram:Vasudevan ](https://img.shields.io/instagram/followers/vasu_3122?label=follow&style=social)](https://instagram.com/vasu_3122)
 
+  
 [!Profile views](https://gpvc.arturio.dev/vasu312)
 
