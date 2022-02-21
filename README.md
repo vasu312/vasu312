@@ -175,7 +175,6 @@
       width="40"
       height="40"
     />
-
     <img
       src="https://cdn.worldvectorlogo.com/logos/aws-dynamodb.svg"
       alt="Dynamodb"
