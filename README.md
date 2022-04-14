@@ -138,7 +138,7 @@
 
   <a href="https://www.mongodb.com/docs/" target="_blank">
     <img
-      src=" https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"
+      src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"
       alt="mongodb"
       width="40"
       height="40"
