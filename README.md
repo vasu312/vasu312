@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💻 " You know, I'm something of a **Developer** myself. " - *Norman Osborn* 
+- 💻 " You know, I'm something of a **Developer** myself. "  
 
 - 👨‍💻 All of my projects are available at [https://github.com/vasu312](https://github.com/vasu312)
 
