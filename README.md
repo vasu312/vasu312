@@ -32,20 +32,37 @@
   <a href="https://dev.java/learn/getting-started-with-java/" target="_blank">
     <img
       src="https://cdn.worldvectorlogo.com/logos/java-4.svg"
-      alt="python"
+      alt="java"
       width="40"
       height="40"
     />
   </a>
 
-  <a href="https://code.visualstudio.com/docs" target="_blank">
+  <a href="https://dart.dev/guides" target="_blank">
     <img
-      src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"
-      alt="python"
+      src="https://cdn.worldvectorlogo.com/logos/dart.svg"
+      alt="dart"
       width="40"
       height="40"
     />
   </a>
+  <a href="https://code.visualstudio.com/docs" target="_blank">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"
+      alt="vscode"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://docs.flutter.dev/get-started/install" target="_blank">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg"
+      alt="flutter"
+      width="40"
+      height="40"
+    />
+  </a>
+  
 </p>
 <h2 align="left">Web Development</h2>
 <p>
@@ -118,6 +135,16 @@
     />
   </a>
 
+
+  <a href="https://www.mongodb.com/docs/" target="_blank">
+    <img
+      src=" https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"
+      alt="mongodb"
+      width="40"
+      height="40"
+    />
+  </a>
+  
   <a href="https://www.sqlite.org/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
