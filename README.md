@@ -178,6 +178,7 @@
       height="40"
     />
   </a>
+  
   <a href="https://angular.io/" target="_blank">
     <img
       src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg"
@@ -186,6 +187,23 @@
       height="40"
     />
   </a>
+  <a href="https://hibernate.org/" target="_blank">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/hibernate.svg"
+      alt="git"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <a href="https://.io/](https://www.openapis.org/" target="_blank">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/openapi-wordmark-1.svg"
+      alt="git"
+      width="40"
+      height="40"
+    />
+    </a>
 </p>
 <h2 align="left">AWS</h2>
 <p>
